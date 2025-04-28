@@ -1,11 +1,11 @@
-# Voice-Activated Personal Assistant ("Jarvis")
+# Text-Activated Personal Assistant ("Jarvis")
 
 ![License](https://img.shields.io/badge/Language-Python-blue)
 
 ## 🚀 About the Project
 
-"Jarvis" is a Python-based Voice-Activated Personal Assistant designed to simplify everyday tasks through simple text/voice commands.  
-This assistant can open websites, search Google, play music, tell the current date and time, and even crack a joke — all while interacting with you using Text-to-Speech (TTS)!
+"Jarvis" is a Python-based Text-Activated Personal Assistant designed to simplify everyday tasks through typed commands and voice responses.  
+This assistant can open websites, search Google, play music, tell the current date and time, and even crack a joke — all while interacting through text input and Text-to-Speech (TTS) output!
 
 This is one of my first AI-driven projects and a step toward building smarter assistants in the future!
 
@@ -13,12 +13,12 @@ This is one of my first AI-driven projects and a step toward building smarter as
 
 ## 🎯 Features
 - 🌐 Open popular websites like Google, Chess.com, ChatGPT
-- 🔍 Perform Google searches based on input queries
+- 🔍 Perform Google searches based on typed queries
 - 🎵 Play music directly from YouTube
 - 🕒 Tell the current time and date
 - 🤣 Tell a random joke
 - 🗣 Speak responses using Text-To-Speech (TTS)
-- 🧠 Simple and interactive user input handling
+- 🧠 Simple and interactive text-based user input handling
 
 ---
 
