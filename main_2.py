@@ -62,6 +62,7 @@ def tell_joke():
     joke = "Why don't scientists trust atoms? Because they make up everything!"
     speak(joke)
 
+
 def process_command(command):
     if "open" in command and "chatgpt" in command:
         open_chatgpt()
@@ -117,8 +118,9 @@ if __name__ == "__main__":
         command = get_text_input("Type Secret key to activate me: ")
         
         if "jarvis" in command:
-            speak("Paddy is activated. How can I help you?")
+            speak("Jarvis is activated. How can I help you?")
             user_command = get_text_input("Enter your command: ")
             process_command(user_command)
         else:
             speak("Type 'Secret Key' to activate me.")
+# Secret Key : "jarvis"
