@@ -1,10 +1,10 @@
-# Text-Activated Personal Assistant ("Jarvis")
+# Text-Activated Personal Assistant ("Intellibot")
 
 ![License](https://img.shields.io/badge/Language-Python-blue)
 
 ## 🚀 About the Project
 
-"Jarvis" is a Python-based Text-Activated Personal Assistant designed to simplify everyday tasks through typed commands and voice responses.  
+"Intellibot" is a Python-based Text-Activated Personal Assistant designed to simplify everyday tasks through typed commands and voice responses.  
 This assistant can open websites, search Google, play music, tell the current date and time, and even crack a joke — all while interacting through text input and Text-to-Speech (TTS) output!
 
 This is one of my first AI-driven projects and a step toward building smarter assistants in the future!
