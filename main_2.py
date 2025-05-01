@@ -15,7 +15,7 @@ CALCULATOR_URL = "https://www.calculator.net/"
 CHESS_URL = "https://www.chess.com/"
 
 def speak(text):
-    print(f"\nJarvis 🧠: {text}")
+    print(f"\nIntellibot 🧠: {text}")
     engine.say(text)
     engine.runAndWait()
 
@@ -117,10 +117,10 @@ if __name__ == "__main__":
     while True:
         command = get_text_input("Type Secret key to activate me: ")
         
-        if "jarvis" in command:
-            speak("Jarvis is activated. How can I help you?")
+        if "intellibot" in command:
+            speak("IntelliBot is activated. How can I help you?")
             user_command = get_text_input("Enter your command: ")
             process_command(user_command)
         else:
             speak("Type 'Secret Key' to activate me.")
-# Secret Key : "jarvis"
+# Secret Key : "intellibot"
